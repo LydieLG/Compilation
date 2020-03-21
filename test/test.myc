@@ -1,0 +1,11 @@
+float x,y,z;
+int a,b,c,d;
+
+a=0;
+b=2;
+c=a+b;
+d=(a*c)+b-c;
+
+x=4.5;
+y=8.2;
+z=x+y;
